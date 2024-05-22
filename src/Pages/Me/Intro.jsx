@@ -4,9 +4,9 @@ export default function Intro() {
         <section id= "workSection" className = "intro--section">
             <div>
                 <h1 className="subpage--title">
-                    Who I Am
+                    UNDER DEVELOPMENT 
                 </h1>
-                <p className="subpage--subtitle">Get to know me a little better</p>
+                <p className="subpage--subtitle">Get to know me a little better UNDER DEVELOPMENT </p>
             </div>
         </section>
     )
