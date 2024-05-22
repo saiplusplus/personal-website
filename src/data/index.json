@@ -1,0 +1,138 @@
+{
+    "skills": [
+        {
+            "id" : "1",
+            "src" : "./img/feather-pen-2.png",
+            "title" : "Presentation/Teaching",
+            "description" : "6+ Years of Experience of speechwriting AND teaching classrooms of 2-100+ students, I have an unparalleled ability to make difficult subjects ultimately fun for my students, and my speeches and professional presentations become major hits amongst my peers."
+        },
+
+        {
+            "id" : "2",
+            "src" : "./img/product-chain-1.png",
+            "title" : "Business Analysis",
+            "description" : "From extracting $6 million+ in excess avionics manufacturing to increasing an injury law firm's marketing ROI by 25%, through my prior internship experience I have a proven track record of identifying high-value opportunties for systems optimization."
+        },
+
+        {
+            "id" : "3",
+            "src" : "./img/feather-pen-1.png",
+            "title" : "Software Development",
+            "description" : "2+ Years Experience in writing JUnit test cases for 1000+ student programs and designing simple yet highly effective algorithms. I still got a lot to learn though so that's why this is third. I deliver quality code, on time, and work efficiently with any developer."
+        },
+
+        {
+            "id" : "4",
+            "src" : "./img/tag-1.png",
+            "title" : "Leadership",
+            "description" : "From small project groups to 200+ person school clubs, I don't even know why but people tend to turn to me for group organization and direction, and I naturally slump into leadership, running orgs with a bias for action and relentless drive to deliver results."
+        }
+    ],
+
+    "portfolio": [
+        {
+            "id" : "1",
+            "src" : "./img/tamilChat.png",
+            "title" : "Tamil Language Chatbot",
+            "description" : "This is a chatbot built on AWS PartyRock designed to help English speakers learn Tamil using Claude 3 Sonnet. I find that conversation is the best way to learn Tamil and sometimes people might not regularly have someone to speak Tamil with. The chat uses English script with the user typing Tamil sentences in English script and the LLM responds in Tamil with English script. To the side, separate agents display the response using Tamil letters and translates the response to English. The user can also use a different widget to translate an English response to Tamil should they not know how to respond to the chatbot in Tamil. This was a simple, no code app that allowed me to tinker heavily with LLM finetuning and app development. It was also useful for my Tamil school students in Atlanta.",
+            "link": "View Project",
+            "url" : "https://partyrock.aws/u/saibalaji/gD4WLY-No/Tamil-Chatbot-Vanakkam!-(Learn-and-Converse-in-Tamil)"
+        },
+
+        {
+            "id" : "2",
+            "src" : "./img/mediaOrganizer.png",
+            "title" : "Media Organizer",
+            "description" : "The only suite of programs you need to bring zen to your photos folder. Built on pure Java, this project takes any folder of images and videos and organizes them all into distinct folders based on the month and year the media was taken (Example \"December 2023\"). Works with heavily corrupted images that may not have a set date with a date inference algorithm. An additional program can organize these folders by year (Example \"2023\"). Works on 20+ data types from IFFs to HEIC. This project came about after my father had 40+ years worth of miscellanous images from ancient cameras to his Iphone and needed help organizing it. It might seem like a simple project and that's cause it is, but making it work with some these early DSLR videos from the 2000s was a feature that took some time to develop. Now we have the beautiful photos folder possible. So the next time you need to load your Iphone photos on your Laptop's local disk, use the Media Organizer!",
+            "link": "View in Github",
+            "url" : "https://github.com/saiplusplus/photo-organizer/tree/main"
+        },
+
+        {
+            "id" : "3",
+            "src" : "./img/echoPomo.png",
+            "title" : "Echo Show Pomodoro Timer",
+            "description" : "UNDER DEVELOPMENT. I had conviced my father to sink 80 dollars into two Amazon Echo Shows at the start of college so I could easily drop into to home any time I felt homesick while in Atlanta. Sadly the Echo Show is pretty bad. However since I have it at my desk it would be really good to have study tools on it and there currently is no properly functioning Alexa Skill for a pomodoro study timer which I use regularly. Not only will app respond to user invocations through audio, it will also have an interactive interface for Echo devices with screens built on JavaScript. Will finish and release shortly" ,
+            "link": "UNDER DEVELOPMENT"
+        }
+    ],
+
+    "projects": [
+        {
+            "id" : "1",
+            "src" : "./img/tamilChat.png",
+            "title" : "Tamil Language Chatbot",
+            "description" : "This is a chatbot built on AWS PartyRock designed to help English speakers learn Tamil using Claude 3 Sonnet. I find that conversation is the best way to learn Tamil and sometimes people might not regularly have someone to speak Tamil with. The chat uses English script with the user typing Tamil sentences in English script and the LLM responds in Tamil with English script. To the side, separate agents display the response using Tamil letters and translates the response to English. The user can also use a different widget to translate an English response to Tamil should they not know how to respond to the chatbot in Tamil. This was a simple, no code app that allowed me to tinker heavily with LLM finetuning and app development. It was also useful for my Tamil school students in Atlanta.",
+            "link": "View Project",
+            "url" : "https://partyrock.aws/u/saibalaji/gD4WLY-No/Tamil-Chatbot-Vanakkam!-(Learn-and-Converse-in-Tamil)"
+        },
+
+        {
+            "id" : "2",
+            "src" : "./img/mediaOrganizer.png",
+            "title" : "Media Organizer",
+            "description" : "The only suite of programs you need to bring zen to your photos folder. Built on pure Java, this project takes any folder of images and videos and organizes them all into distinct folders based on the month and year the media was taken (Example \"December 2023\"). Works with heavily corrupted images that may not have a set date with a date inference algorithm. An additional program can organize these folders by year (Example \"2023\"). Works on 20+ data types from IFFs to HEIC. This project came about after my father had 40+ years worth of miscellanous images from ancient cameras to his Iphone and needed help organizing it. It might seem like a simple project and that's cause it is, but making it work with some these early DSLR videos from the 2000s was a feature that took some time to develop. Now we have the beautiful photos folder possible. So the next time you need to load your Iphone photos on your Laptop's local disk, use the Media Organizer!",
+            "link": "View in Github",
+            "url" : "https://github.com/saiplusplus/photo-organizer/tree/main"
+        },
+
+        {
+            "id" : "3",
+            "src" : "./img/echoPomo.png",
+            "title" : "Echo Show Pomodoro Timer",
+            "description" : "UNDER DEVELOPMENT. I had conviced my father to sink 80 dollars into two Amazon Echo Shows at the start of college so I could easily drop into to home any time I felt homesick while in Atlanta. Sadly the Echo Show is pretty bad. However since I have it at my desk it would be really good to have study tools on it and there currently is no properly functioning Alexa Skill for a pomodoro study timer which I use regularly. Not only will app respond to user invocations through audio, it will also have an interactive interface for Echo devices with screens built on JavaScript. Will finish and release shortly" ,
+            "link": "UNDER DEVELOPMENT"
+        }
+    ],
+
+    "work": [
+        {
+            "id" : "1",
+            "src" : "./img/taRound.png",
+            "title" : "Georgia Institute of Technology College of Computing",
+            "job" : "Undergraduate Teaching Assistant",
+            "years" : "January 2024 - Present",
+            "description" : "My first year at Georgia Tech was insanely difficult, I was not prepared for my life to change so drastically from being a naive school kid to, well a naive school kid on the opposite side of the country. But getting this position for CS 1331 Intro to Object Oriented Programming, the single largest class at Georgia Tech, was a boon for me as it gave me my \"niche\". It gave me a way to continue doing what I like doing and what I am better than anyone else at: presenting, teaching, and entertaining. I think I got this job mainly because I applied and my grade in the class but who knows maybe they liked my interview. I wasn't actually part of the first batch of new TAS hired by our professor, I was part of the second batch that came after some people left so I think I was an afterthought. But I was determined not to fade into the background like an afterthought, nobody overlooks Sai. My primary responsibility as a TA is to grade student programs and exams, teach a recitation section of about 20 people (8 regulars), and write test cases for student programs. But as someone from the second batch, I was determined to knock it out of the park. My masterstroke came in recitation instruction. In my first few days I noticed that students got bored really quickly, tapping out and doing something else on their computer and I didn't like that. Sai does not want to give a Sai presentation to an audience that ain't payin attention. So I put myself into the students' shoes which wasn't hard cause I'm a student myself anyway and go to other class recitations and realized that no matter what I do, student nature is to wander off. When we have a computer in front of us you know we are gonna drift into email, games, or other schoolwork. I couldn't fight the computer. So then what could I possibly do to beat the computer for our students' attention. Then it struck me, I had to beat the computer at its own game. I developed a whole new kind of recitation, the PointSolutions recitation. PointSolutions was a software our school paid for that among other things, could be used to make interactive powerpoint presentations. This means polling students in between slides with a question they could answer on their own devices. Bingo. Now I wasn't gonna do the professor thing of just asking students boring questions on PointSolutions. No, I created a trivia style game based on actual exam questions (that I remembered from my time in the class I didn't steal from the actual exam, just want to make that clear). This trivia solution was simply beautiful. You see students were still gonna drift away, its expected. However, when that PointSolutions slide came up it forced everyone to go back to the slides and actually understand what we're yapping about at the front of the class. Boom, not only did my students have fun but they could actually distill all the information they needed. With my two recitation partners I ran the greatest recitation section of CS 1331 and I am proud of that, and I will continue innovating for the betterment of the student.",
+            "link": "View Project"
+        },
+
+        {
+            "id" : "2",
+            "src" : "./img/avtechRound.png",
+            "title" : "AvtechTyee",
+            "job" : "Junior Accounting Intern",
+            "years" : "March 2023 - June 2023",
+            "description" : "God bless my friend Aditya Ashok for getting me this job. AvtechTyee (subsidiary of TransDigm NYSE: TDG) is a leading manufacturer of avionics and structural equipment for many of the world's most popular aircraft. My boy Aditya got an Engineering Internship for himself at the company through mystic means he wouldn't really explain but I asked him do you think they'd take me in and he said sure. Bless his soul because he talked to HR and actually got me a position, I will forever be indebted. Now I kinda wanted to be an engineering intern myself but of all things he got me an accounting internship, but I didn't care God Bless his beautiful soul. Good lord this was a real company part of a 70 billion dollar corporation where I could do real work. Heavans almighty it was one of the coolest experiences of my life. Now most of my work is protected by NDA and I am now well aware of ITAR and EAR so I won't say much. The finance team was awesome and I got to learn from each of them the intricacies of the finance of aeropsace.  I was tasked with working with different departments within the company to discover financial opportunities hidden throughout the company's reserve account. This meant locating fully-reserved parts, developing a gameplan for them (selling them to our suppliers, selling on the open market, or scrapping them), and putting that plan into action. Aside from my main project, I assisted in various finance and engineering needs. Coordinating communications between VPs and Directors of different company divisions, participating in intense conference room meetings, advocating for solutions that made the company real money. Surveying the vast manufacturing facility to develop gameplans for various fully-reserved parts. Working with people from all functional divisions of the company, not just in finance, towards a shared financial vision. Learning Generally-Accepted-Accounting-Principles on the job. God bless Avtech Tyee, truly a gem of a company.",
+            "link": "View in Github"
+        }
+    ],
+
+    "me": [
+        {
+            "id" : "1",
+            "src" : "./img/placeholder-image.png",
+            "title" : "Books",
+            "curr" : "Inglorious Empire: What the British Did to India",
+            "fav" : "The Martian",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+
+        {
+            "id" : "2",
+            "src" : "./img/placeholder-image-1.png",
+            "title" : "TV Shows",
+            "curr" : "Suits",
+            "fav" : "Arrested Development",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "link": "View in Github"
+        },
+
+        {
+            "id" : "3",
+            "src" : "./img/placeholder-image-2.png",
+            "title" : "Software Development",
+            "description" : "Sai can Teach",
+            "link": "View Project"
+        }
+    ]
+}
