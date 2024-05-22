@@ -11,7 +11,7 @@ export default function HeroSection() {
                     </h1>
                     <p className="hero-section-description">Welcome to my website, I'm glad you're here!<br/>I am a student at the Georgia Institute of Technology.</p>
                 </div>
-                <div className="buttons">
+                <div className="portfolio--button">
                     <a href={Pdf} className = "btn btn-primary" target="_blank">
                         My Resume
                     </a>
