@@ -1,5 +1,3 @@
-import { Link } from "react-scroll";
-import data from "../../data/index.json";
 
 export default function Bio() {
     return(

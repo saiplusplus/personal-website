@@ -1,4 +1,3 @@
-import Pdf from "../../data/resume.pdf"
 
 export default function Intro() {
     return (

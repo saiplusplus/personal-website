@@ -1,6 +1,4 @@
-import { calculateNewValue } from "@testing-library/user-event/dist/utils";
 import { useState, useEffect} from "react";
-import { useLocation } from "react-router-dom";
 import { Link } from "react-scroll";
 
 function Navbar() {

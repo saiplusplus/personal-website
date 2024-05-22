@@ -3,7 +3,6 @@ import Intro from './Intro';
 import Bio from './Bio';
 import ContactMe from '../Home/ContactMe';
 import Footer from '../Home/Footer';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { motion } from "framer-motion";
 
 
