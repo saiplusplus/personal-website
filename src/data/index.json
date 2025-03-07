@@ -4,21 +4,21 @@
             "id" : "1",
             "src" : "./img/feather-pen-2.png",
             "title" : "Presentation/Teaching",
-            "description" : "6+ Years of Experience of speechwriting AND teaching classrooms of 2-100+ students, I have an unparalleled ability to make difficult subjects ultimately fun for my students, and my speeches and professional presentations become major hits amongst my peers."
+            "description" : "6+ Years of Experience of speechwriting AND teaching classrooms of 2-100+ students, I have an unparalleled ability to make difficult subjects ultimately fun for my students, with presentations becoming major hits amongst my peers."
         },
 
         {
             "id" : "2",
             "src" : "./img/product-chain-1.png",
-            "title" : "Business Analysis",
-            "description" : "From extracting $6 million+ in excess avionics manufacturing to increasing an injury law firm's marketing ROI by 25%, through my prior internship experience I have a proven track record of identifying high-value opportunties for systems optimization."
+            "title" : "Data Analysis",
+            "description" : "From delivering key vehicle behavior insights from 70M+ data logs to extracting $6 million+ in excess avionics manufacturing, through my prior internship experience I have a proven track record of identifying high-value opportunties for systems optimization."
         },
 
         {
             "id" : "3",
             "src" : "./img/feather-pen-1.png",
             "title" : "Software Development",
-            "description" : "2+ Years Experience in writing JUnit test cases for 1000+ student programs and designing simple yet highly effective algorithms. I still got a lot to learn though so that's why this is third. I deliver quality code, on time, and work efficiently with any developer."
+            "description" : "3+ Years Experience in application development, writing advanced ETL operations, and translating mathematical models into code. I deliver quality code, on time, and work efficiently with any developer."
         },
 
         {
