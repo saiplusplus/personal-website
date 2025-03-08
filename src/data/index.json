@@ -18,14 +18,14 @@
             "id" : "3",
             "src" : "./img/feather-pen-1.png",
             "title" : "Software Development",
-            "description" : "3+ Years Experience in application development, data engineering, business analysis and translating mathematical models into code. I deliver quality code, on time, and work efficiently with any developer.                                                       "
+            "description" : "3+ Years Experience in application development (Java, C, Python), data engineering (SQL, Apache Airflow), business analysis (Excel, Grafana), and translating mathematical models into code (Python, basic ML). I deliver quality code, on time, and work efficiently with any developer.                                                       "
         },
 
         {
             "id" : "4",
             "src" : "./img/tag-1.png",
             "title" : "Leadership",
-            "description" : "From small project groups to 200+ person school clubs, I don't even know why but people tend to turn to me for group organization and direction, and I naturally slump into leadership, running orgs with a bias for action and relentless drive to deliver results."
+            "description" : "From small project groups to 200+ person school clubs, I don't even know why but people tend to turn to me for group organization and direction, and I naturally slump into leadership, running teams with a bias for action and a relentless drive to deliver results."
         }
     ],
 
